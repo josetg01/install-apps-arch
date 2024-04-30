@@ -1,0 +1,5 @@
+VSCodium
+VMWare-WorkStation
+OnlyOffice
+Veyon
+Oh-My-Bash
